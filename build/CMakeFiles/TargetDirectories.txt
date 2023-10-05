@@ -1,0 +1,3 @@
+/home/Lynx/Algoritma/clang/build/CMakeFiles/main.dir
+/home/Lynx/Algoritma/clang/build/CMakeFiles/edit_cache.dir
+/home/Lynx/Algoritma/clang/build/CMakeFiles/rebuild_cache.dir

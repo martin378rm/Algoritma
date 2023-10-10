@@ -4,6 +4,7 @@ public class BubbleSort {
 
     public static void main(String[] args) {
 
+        // test
         int[] data = {10,29,1,2,32,92,100,4,3,5};
         System.out.println(Arrays.toString(bubbleSort(data)));
     }

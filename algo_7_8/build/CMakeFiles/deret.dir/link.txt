@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/deret.dir/deret.cpp.o -o deret 

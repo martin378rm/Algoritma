@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8189d29a-b1ff-4906-a706-4b2d7bc7ce5b" name="Changes" comment="sorting and searching algorithm">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cetak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -69,10 +69,11 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Cetak">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -82,8 +83,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cetak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cetak" />
+      <module name="Algoritma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Algoritma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cetak" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
@@ -97,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1696909910048</updated>
       <workItem from="1696909910659" duration="4471000" />
-      <workItem from="1696928129205" duration="214000" />
+      <workItem from="1696928129205" duration="2414000" />
+      <workItem from="1697011746504" duration="4838000" />
     </task>
     <task id="LOCAL-00001" summary="sorting and searching algorithm">
       <option name="closed" value="true" />
@@ -107,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696927219452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sorting and searching algorithm">
+      <option name="closed" value="true" />
+      <created>1696928575008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696928575009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +153,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sorting and searching algorithm" />
     <option name="LAST_COMMIT_MESSAGE" value="sorting and searching algorithm" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

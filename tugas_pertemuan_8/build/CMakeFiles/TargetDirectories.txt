@@ -1,0 +1,4 @@
+/home/Lynx/Algoritma/tugas8/build/CMakeFiles/tugas_a.dir
+/home/Lynx/Algoritma/tugas8/build/CMakeFiles/tugas_b.dir
+/home/Lynx/Algoritma/tugas8/build/CMakeFiles/edit_cache.dir
+/home/Lynx/Algoritma/tugas8/build/CMakeFiles/rebuild_cache.dir

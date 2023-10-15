@@ -1,0 +1,4 @@
+/home/Lynx/Algoritma/Tugas Algoritma/build/CMakeFiles/persegi_panjang.dir
+/home/Lynx/Algoritma/Tugas Algoritma/build/CMakeFiles/upah.dir
+/home/Lynx/Algoritma/Tugas Algoritma/build/CMakeFiles/edit_cache.dir
+/home/Lynx/Algoritma/Tugas Algoritma/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/roket.dir/roket.cpp.o -o roket 

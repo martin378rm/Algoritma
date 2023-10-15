@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/persegi_panjang.dir/persegi_panjang.cpp.o -o persegi_panjang 

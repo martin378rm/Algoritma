@@ -1,0 +1,6 @@
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/main.dir
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/deret.dir
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/roket.dir
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/traffic.dir
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/edit_cache.dir
+/home/Lynx/Algoritma/algo_7_8/build/CMakeFiles/rebuild_cache.dir

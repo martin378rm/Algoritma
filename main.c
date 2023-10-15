@@ -6,14 +6,15 @@ int main() {
     char *string = NULL; // Pointer ke string yang belum diinisialisasi
     int initialSize = 10; // Ukuran awal string
 
-    
+
+
     // Mengalokasikan memori untuk string
     string = (char *)malloc(initialSize * sizeof(char));
     if (string == NULL) {
         perror("Pengalokasian memori gagal");
         exit(EXIT_FAILURE);
     }
-
+    
     // Inisialisasi string
     strcpy(string, "Hei, ");
 
@@ -37,3 +38,4 @@ int main() {
     return 0;
 }
 
+// sudo cp -r lightdm-webkit-theme-glo`rious /usr/share/lightdm-webkit/themes/glorius

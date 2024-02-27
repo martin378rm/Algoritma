@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/martin378rm/Algoritma/domain"
 )
 
 /*
@@ -28,8 +26,4 @@ func main() {
 		fmt.Println("Data Not Found")
 	}
 
-	var todo domain.Todo
-	todo.Todo = "Test"
-	todo.ID = 1
-	fmt.Println(todo)
 }
